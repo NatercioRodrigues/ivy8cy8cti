@@ -1,0 +1,55 @@
+.h4{
+    border-width: 30px; 
+    border-style: solid;
+    border-color:  blue; 
+}
+
+
+
+
+  
+#img{
+ background-attachment: fixed;
+ 
+
+} 
+div{
+    border: 7px solid black;
+    border-radius: 10px;
+    background-color: white;
+
+}
+footer{
+    background-color:#333 ;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+main{
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+}
+ 
+ @media (max-width:768px) {
+    form{
+        padding: 10px;}
+ }
